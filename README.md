@@ -4,6 +4,7 @@
 - 😮 You can call me either NightMX or NightMasterX
 - ⚡ Trying my best to Work at Microsoft in nearby future 🤞
 - 😏 I make youtube videos to help people! We are all learning & I love to teach people and solve their issues!
+- 💼 Working at Vivel Development!
 
 <p><p>
   
