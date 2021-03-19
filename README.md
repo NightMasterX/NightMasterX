@@ -7,11 +7,6 @@
 - 💼 Working at Vivel Development!
 
 <p><p>
-  
-<div align="center">
-  <a href="https://discord.gg/Ybba3vA9Kh" target="_blank">
-    <img src="https://user-images.githubusercontent.com/59381835/92191514-d649ad80-ee18-11ea-9bc4-e95c7a122a99.png" alt="Discord" width="80"/>
-  </a>
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
