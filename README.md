@@ -17,7 +17,7 @@
 ---
 <div align="center">
   <a href="https://twitch.tv/nightmx_" target="_blank">
-    <img src="https://s3.amazonaws.com/content.sitezoogle.com/u/161458/215f2b9d039198340d2e57a2b041c0d7633414dd/original/logo-twitch-iosversion-by-akiruuu-d9djk9s.png?1465339711" alt="Discord" width="80"/>
+    <img src="https://usapng.com/images/bt/twitch-icon-11.png" alt="Discord" width="80"/>
   </a>
   <a href="https://youtube.com/NightMasterX" target="_blank">
     <img src="https://user-images.githubusercontent.com/59381835/92191346-676c5480-ee18-11ea-8240-e416eb1a5b5d.png" alt="YouTube Channel" width="80"/>
