@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm NightMX</h1>
 <h3 align="center">A Coder and a Minecraft freak</h3>
 
-- 🔭 I’m currently working on **DiscoRP**
+- 🔭 I’m currently working on **Kola**
 
 - ⚡ Fun fact **I love noodles**
 
